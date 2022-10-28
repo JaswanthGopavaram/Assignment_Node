@@ -2,17 +2,17 @@ const bcrypt = require('bcrypt')
 
 users = [{
     id: 1,
-    name: "Manish",
+    name: "Jaswanth",
     mobile: '1234567890',
-    password: 'asdf',
-    email: 'manish@mail'
+    password: '1234',
+    email: 'jashu@mail'
 },
 {
     id: 2,
-    name: "Random",
-    mobile: '1234567890',
-    password: 'asdf',
-    email: 'random@random'
+    name: "chinna",
+    mobile: '1234567899',
+    password: '123',
+    email: 'chinna@random'
 }
 ]
 
